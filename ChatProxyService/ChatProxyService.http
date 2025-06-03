@@ -1,0 +1,6 @@
+@ChatProxyService_HostAddress = http://localhost:5193
+
+GET {{ChatProxyService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

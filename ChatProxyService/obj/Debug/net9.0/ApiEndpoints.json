@@ -1,0 +1,24 @@
+[
+  {
+    "ContainingType": "ChatProxyController",
+    "Method": "StreamChat",
+    "RelativePath": "api/ChatProxy",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ChatRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
