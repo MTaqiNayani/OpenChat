@@ -1,0 +1,14 @@
+D:\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.exe
+D:\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.deps.json
+D:\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.runtimeconfig.json
+D:\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.dll
+D:\ChatApp\ChatApp\bin\Debug\net8.0\ChatApp.pdb
+D:\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.AssemblyInfoInputs.cache
+D:\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.AssemblyInfo.cs
+D:\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.csproj.CoreCompileInputs.cache
+D:\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.dll
+D:\ChatApp\ChatApp\obj\Debug\net8.0\refint\ChatApp.dll
+D:\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.pdb
+D:\ChatApp\ChatApp\obj\Debug\net8.0\ChatApp.genruntimeconfig.cache
+D:\ChatApp\ChatApp\obj\Debug\net8.0\ref\ChatApp.dll
